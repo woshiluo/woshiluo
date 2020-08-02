@@ -3,7 +3,7 @@
 > Nice to meet you!
 
 <div align="center">
-<img height="128px" src="https://woshiluo.com/favicon.png"/>
+<img height="128px" src="https://woshiluo.com/favicon.png"/><br/>
 准高一/鸽子<br/>
 弱省选手/菜的真实<br/>
 Oi/前端萌新/Rust萌新/PHP萌新<br/>
