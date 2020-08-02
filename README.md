@@ -8,7 +8,7 @@
 弱省选手/菜的真实<br/>
 Oi/前端萌新/Rust萌新/PHP萌新<br/>
 纯音乐/LoveLive!/Galgame/VC<br/>
-不喜欢使用 Emjoi
+不喜欢使用 Emoji
 </div>
 
 ## Why not use english?
