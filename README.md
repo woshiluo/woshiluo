@@ -11,10 +11,6 @@ Oi/前端萌新/Rust萌新/PHP萌新<br/>
 不喜欢使用 Emoji
 </div>
 
-## Why not use english?
-
-Because of my poor english.
-
 ## 在哪里可以找到我
 
 见 https://woshiluo.com 下 FIND ME
