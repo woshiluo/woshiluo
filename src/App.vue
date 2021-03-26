@@ -3,7 +3,7 @@
 	<div>
 	<header class="header">
 		<div class="mdui-center">
-			<img class="favicon" src="/favicon.png"/>
+			<img class="favicon mdui-img-circle mdui-shadow-2" src="/favicon.png"/>
 			<h2>Woshiluo</h2>
 		</div>
 	</header>
