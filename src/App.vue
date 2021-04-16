@@ -74,7 +74,7 @@ export default {
 						{ "url": "https://github.com/woshiluo", "description": "@woshiluo", "title": "Github" },
 						{ "url": "https://loj.ac/user/7852", "description": "@Woshiluo", "title": "LibreOJ" },
 						{ "url": "https://codeforces.com/profile/woshiluo", "description": "@woshiluo", "title": "Codeforces" },
-						{ "url": "https://space.bilibili.com/99800931", "description": "@woshiluo-Bzhan", "title": "Bilibili" },
+						{ "url": "https://space.bilibili.com/99800931", "description": "@Woshiluo_", "title": "Bilibili" },
 					] } 
 				},
 				{ 
