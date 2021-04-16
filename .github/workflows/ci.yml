@@ -10,12 +10,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
+	- name: Build
+	  run: |
+		yarn
+		yarn build
+
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.1.1
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: dist
-        BUILD_SCRIPT: yarn && yarn build
-
-
+      with:
+        branch: gh-pages
+        folder: dist
