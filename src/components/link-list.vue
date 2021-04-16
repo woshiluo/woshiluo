@@ -4,7 +4,7 @@
 	</ul>
 </template>
 <script>
-import LinkItem from "./link-item" 
+import LinkItem from "./link-item.vue" 
 export default {
 	components: {
 		LinkItem
