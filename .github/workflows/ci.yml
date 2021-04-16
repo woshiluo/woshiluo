@@ -10,10 +10,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-	- name: Build
-	  run: |
-		yarn
-		yarn build
+    - name: Build
+      run: |
+        yarn
+        yarn build
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.1.1
