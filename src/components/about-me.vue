@@ -1,21 +1,14 @@
 <template>
-	<div class="mdui-typo">
-		<div class="mdui-center about-card">
-			<p>新高二/鸽子</p>
-			<p>弱省选手/菜的真实</p>
-			<p>Oi/前端萌新/Rust萌新/PHP萌新</p>
-			<p>纯音乐/LoveLive!/Galgame/VC</p>
-			<p>不喜欢 Emoji/云推 V</p>
-		</div>
+	<div class="mdui-typo mdui-card-content about-card">
+		<p>高中二年级学生，信息学竞赛弱省选手。</p>
+		<p>经常使用 C/C++，偶尔使用 Rust 和 PHP。</p>
+		<p>偏好使用开源软件。</p>
+		<p>不喜欢 Emoji。</p>
 	</div>
 </template>
 
 <style scoped>
-.mdui-center {
-	text-align:center;
-}
 .about-card {
-	letter-spacing: 4px;
-	font-size: 1.1em;
+	letter-spacing: 2px;
 }
 </style>
