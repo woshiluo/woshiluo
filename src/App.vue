@@ -61,7 +61,7 @@ export default {
 				{ 
 					id: 1, title: "Index", component: "link-list",
 					data: { links: [ 
-						{ "url": "https://blog.woshiluo.com", "title": "Woshiluo's Notebook", description: "「Jump up HIGH!!」", image_src: "book" },
+						{ "url": "https://blog.woshiluo.com", "title": "Woshiluo's Notebook", description: "「井底之蛙不会知道大海的辽阔，但是会知道天空有多蓝。」", image_src: "book" },
 						{ "title": "Woshiluo's Diary", description: "风雨背后总有彩虹", image_src: "photo" },
 						{ "url": "https://api.woshiluo.site/status/", "title": "Status", description: "Gu gu guing.", image_src: "pie_chart" } 
 					] }
