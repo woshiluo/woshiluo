@@ -26,6 +26,8 @@
 				<div class="mdui-typo footer">
 					<hr/>
 					本站已运行 {{ day_number }} 天 {{ hour_number }} 时 {{ minute_number }} 分 {{ second_number }} 秒
+
+					<a href="https://icp.gov.moe/?keyword=20221460" target="_blank">萌ICP备20221460号</a>
 				</div>
 			</div>
 		</div>
