@@ -23,12 +23,12 @@
 					<component :is="current_tab_component" :key="current_tab" v-bind="current_tab_links"></component>
 				</keep-alive>
 				</transition>
-				<div class="mdui-typo footer">
-					<hr/>
-					本站已运行 {{ day_number }} 天 {{ hour_number }} 时 {{ minute_number }} 分 {{ second_number }} 秒
+			</div>
+			<div class="mdui-typo footer">
+				<hr/>
+				本站已运行 {{ day_number }} 天 {{ hour_number }} 时 {{ minute_number }} 分 {{ second_number }} 秒
 
-					<a href="https://icp.gov.moe/?keyword=20221460" target="_blank">萌ICP备20221460号</a>
-				</div>
+				<a href="https://icp.gov.moe/?keyword=20221460" target="_blank">萌ICP备20221460号</a>
 			</div>
 		</div>
 	</main>
@@ -142,18 +142,26 @@ export default {
 }
 
 .card {
-	display: flex;
-	flex-direction: column;
-	max-height: 60vh;
+	/*max-height: 60vh;*/
 }
+
 .card-content {
+	height: 40vh;
+	display: flex;
+	align-items: center;
+}
+
+.card-container > div,ul {
+	width: 100%;
+	max-height: 100%;
 	overflow: auto;
 }
 .card-header {
 	padding: 5px;
 }
 
-.tab-buttons > div {
+.tab-buttons {
+	margin-top: 5px;
 	margin-bottom: 5px;
 }
 
