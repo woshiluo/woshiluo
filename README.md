@@ -1,6 +1,6 @@
 > Hi, Woshiluo here!
 
-- Senior high school student, Oier
+- Senior high school student
 - Coding in CPP / RUST / PHP
 
 ## FIND ME
