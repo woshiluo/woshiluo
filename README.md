@@ -1,6 +1,6 @@
 > Hi, Woshiluo here!
 
-- Senior high school student
+- A student at HDU
 - Coding in CPP / RUST / PHP
 
 ## FIND ME
