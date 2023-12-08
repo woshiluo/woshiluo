@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "mdui": "^1.0.2",
+    "typescript": "^5.3.2",
     "vue": "^3.0.5"
   },
   "devDependencies": {
