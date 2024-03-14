@@ -63,7 +63,7 @@ export default {
 				{ 
 					id: 1, title: "Index", component: "link-list",
 					data: { links: [ 
-						{ "url": "https://blog.woshiluo.com", "title": "Woshiluo's Notebook", description: "「长江黄河不会倒流」", image_src: "book" },
+						{ "url": "https://blog.woshiluo.com", "title": "Woshiluo's Notebook", description: "「Jump up HIGH!!」", image_src: "book" },
 						{ "title": "Woshiluo's Diary", description: "风雨背后总有彩虹", image_src: "photo" },
 						{ "url": "https://status.woshiluo.com/status/woshiluo", "title": "Status", description: "服务监控", image_src: "pie_chart" } 
 					] }
