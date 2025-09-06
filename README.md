@@ -1,7 +1,7 @@
 > Hi, Woshiluo here!
 
 - A student at HDU
-- Coding in Rust / CPP / Chisel/ PHP
+- Coding in Rust / CPP / Chisel / PHP
 
 ## FIND ME
 
